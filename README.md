@@ -10,10 +10,11 @@ where i used Selenium,Java,TestNG and Following by Page Object Model (POM) Desig
 3. Products Page
 4. Search For Product
 5. Product Page
-6. Email SubscriPtion
-7. Shopping Cart Page
-8. Checkout Page
-9. Payment Page
-10. Contact Us Page
-11. Logout Page
+6. Review for Product
+7. Email SubscriPtion
+8. Shopping Cart Page
+9. Checkout Page
+10. Payment Page
+11. Contact Us Page
+12. Logout Page
 
