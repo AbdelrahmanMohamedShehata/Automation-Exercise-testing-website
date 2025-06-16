@@ -8,9 +8,9 @@ where i used Selenium,Java,TestNG and Followed by Page Object Model (POM) Design
 1. Home Page 
 2. Login Page
 3. Products Page
-4. Search For Product
+4. Product Search
 5. Product Page
-6. Review for Product
+6. Product Review
 7. Email SubscriPtion
 8. Shopping Cart Page
 9. Checkout Page
