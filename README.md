@@ -1,7 +1,7 @@
 ** About The Project **
 
-This is an automation testing project for Automation Exercise Website.
-By using Selenium,Java,TestNG and Following by Page Object Model (POM) Design Pattern.
+This is an automation testing project for Automation Exercise Website
+where i used Selenium,Java,TestNG and Following by Page Object Model (POM) Design Pattern.
 
 ** Covered Features **
 
